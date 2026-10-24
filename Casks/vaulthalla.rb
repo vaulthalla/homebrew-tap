@@ -5,7 +5,7 @@ cask "vaulthalla" do
   version "1.16.0"
   sha256 "b02d4a91d38e53893d5636b568fc8ceec35045c1917d77381bd65474c26caf93"
 
-  url "https://github.com/vaulthalla/vaulthalla/releases/download/v#{version}/vaulthalla-#{version}-arm64.pkg"
+  url "https://github.com/vaulthalla/server/releases/download/v#{version}/vaulthalla-#{version}-arm64.pkg"
   name "Vaulthalla"
   desc "Self-hosted encrypted cloud: server, web console and vh CLI"
   homepage "https://vaulthalla.sh/"
