@@ -17,7 +17,7 @@ jobs:
   test-bot:
     strategy:
       matrix:
-        # macOS only: Linux installs come from apt.vaulthalla.sh, not Homebrew.
+        # macOS only: Linux installs come from apt.valkyrianlabs.com (alias apt.vaulthalla.sh), not Homebrew.
         os: [ macos-26 ]
     runs-on: ${{ matrix.os }}
     permissions:

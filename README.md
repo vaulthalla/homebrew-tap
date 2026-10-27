@@ -1,7 +1,7 @@
 # Vaulthalla Homebrew Tap
 
 Homebrew distribution of [Vaulthalla](https://github.com/vaulthalla/server) for macOS (Apple Silicon).
-Linux installs come from the APT repository at `apt.vaulthalla.sh`; nothing here targets Linux.
+Linux installs come from the Valkyrian Labs APT repository at `apt.valkyrianlabs.com` (also served as `apt.vaulthalla.sh`); nothing here targets Linux.
 
 ```sh
 brew tap vaulthalla/tap
