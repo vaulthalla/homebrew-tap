@@ -1,6 +1,6 @@
 # Vaulthalla Homebrew Tap
 
-Homebrew distribution of [Vaulthalla](https://github.com/vaulthalla/server) for macOS (Apple Silicon).
+Homebrew distribution of [Vaulthalla](https://github.com/valkyrianlabs/vaulthalla-server) for macOS (Apple Silicon).
 Linux installs come from the APT repository at `apt.vaulthalla.sh`; nothing here targets Linux.
 
 ```sh
@@ -10,9 +10,9 @@ brew tap vaulthalla/tap
 ## Status
 
 Empty for now. macOS support is being built under the
-[macOS initiative](https://github.com/vaulthalla/server/issues/199). The packaging shape is decided in
-[#203](https://github.com/vaulthalla/server/issues/203), and the work is tracked in
-[#219](https://github.com/vaulthalla/server/issues/219).
+[macOS initiative](https://github.com/valkyrianlabs/vaulthalla-server/issues/199). The packaging shape is decided in
+[#203](https://github.com/valkyrianlabs/vaulthalla-server/issues/203), and the work is tracked in
+[#219](https://github.com/valkyrianlabs/vaulthalla-server/issues/219).
 
 Planned:
 
