@@ -2,8 +2,8 @@
 # vaulthalla/homebrew-tap repository as Casks/vaulthalla.rb). `brew install --cask vaulthalla/tap/vaulthalla` runs the
 # same package as a manual install, so both paths provision identically.
 cask "vaulthalla" do
-  version "1.16.0"
-  sha256 "b02d4a91d38e53893d5636b568fc8ceec35045c1917d77381bd65474c26caf93"
+  version "1.17.0"
+  sha256 "ba03caaca5908a7241b251e43cd036902f5c16b75e91d2d2cbf58d6e496d162f"
 
   url "https://github.com/vaulthalla/server/releases/download/v#{version}/vaulthalla-#{version}-arm64.pkg"
   name "Vaulthalla"
